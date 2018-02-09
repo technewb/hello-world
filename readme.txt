@@ -1,5 +1,3 @@
 Hello,
 
-I am really cool
-
-But I am not sure about that
+This is my practice git. I am learning how to use version control.
